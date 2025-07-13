@@ -1,9 +1,9 @@
 local Rayfield = loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
 
 local Window = Rayfield:CreateWindow({
-   Name = "🔥 เมนูโกงแบบภาษาไทย 🔥",
+   Name = "🔥 เมนูโกงของ-ชนัญญู 🔥",
    LoadingTitle = "กำลังโหลดเมนู...",
-   LoadingSubtitle = "โดย ChatGPT",
+   LoadingSubtitle = "โดย ชนัญญู",
    ConfigurationSaving = {
       Enabled = false,
    },
